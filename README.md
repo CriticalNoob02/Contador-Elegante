@@ -1,4 +1,4 @@
-## Bem vindo ao meu primeiro projeto com React Native!! ✨
+# Bem vindo ao meu primeiro projeto com React Native!! ✨
 
 Para iniciar o projeto siga esses passos: 
 
@@ -6,6 +6,8 @@ Para iniciar o projeto siga esses passos:
 - Abra um terminal nesse clone;
 - Insira o seguinte script `npm install` para instalar todas as dependencias deste projeto;
 - Aps ter instalado as depedencias, insira o script a seguir `npm run start` para iniciar o projeto localmente, e pressione 'W' prar abrir no navegador;
+
+## Resumo
 
 Um projeto bem simples para treinar as mudanças de estado do React e a responsividade do React-Native.
 
